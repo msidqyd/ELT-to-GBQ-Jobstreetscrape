@@ -6,7 +6,6 @@
 - Automate job data collection from JobStreet with choosen keywords.
 - Perform transformations and load data into Google Cloud BigQuery.
 
-This repository includes the following steps:  
 ## 2. Tech Stacks
 - 🐍 Python 3.10
 - 🌬️ Apache Airflow (Dockerized)
@@ -16,9 +15,11 @@ This repository includes the following steps:
 - 🐳 Docker + Docker Compose
 
 # 3. Architecture Diagram
-![alt text](image-3.png)
+![Screenshot 2025-06-07 223027](https://github.com/user-attachments/assets/72afc5f6-986f-4a80-bfac-e1b009ff12a9)
+
 # 4. Control Flow Graph
-![alt text](image-4.png)
+![Screenshot 2025-06-07 223307](https://github.com/user-attachments/assets/940d0e45-e8c8-4c0e-832a-5027832a603d)
+
 ## Pipeline Features
 - Scraping module using Selenium (JobStreet)
 - Branching DAGs for dynamic input format handling
@@ -62,7 +63,7 @@ below is the example of new day, so run scrape and choose table date same time t
 ![alt text](image-3.png)
 
 ### Records after incremental Load
-![alt text](image-9.png)
+![Screenshot 2025-06-08 191325](https://github.com/user-attachments/assets/7471c47b-f7e7-4b9d-997d-e5e5851880ec)
 ![alt text](image-5.png)
 
 ### Table before & after incremental
