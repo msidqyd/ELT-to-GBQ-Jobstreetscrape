@@ -52,23 +52,26 @@ which the user could choose:
 - table date, which table want to ingest
 - also, run the scrape or skip the scrape
 below is the example of new day, so run scrape and choose table date same time the data scraped
-![alt text](image-13.png)
+![Screenshot 2025-07-03 152334](https://github.com/user-attachments/assets/da1ca880-553e-461a-92f0-8c61fbd8014b)
 
 ### Airflow DAG Logs 
 ![Screenshot 2025-07-03 151756](https://github.com/user-attachments/assets/997fa145-f643-4ef4-a8b7-4cee943d0018)
-![alt text](image-1.png)
+![Screenshot 2025-07-03 163758](https://github.com/user-attachments/assets/f90be262-8c68-4a67-93fd-0e4c7c7ae9df)
+
 
 ### Records before incremental Load
 ![Screenshot 2025-07-03 144526](https://github.com/user-attachments/assets/136dd928-0b66-4522-b579-2349948758b7)
-![alt text](image-3.png)
+![Screenshot 2025-07-03 152259](https://github.com/user-attachments/assets/5a7612e9-1669-4fc6-b12b-c2d1d1d8751e)
 
 ### Records after incremental Load
 ![Screenshot 2025-07-03 151122](https://github.com/user-attachments/assets/ae41506d-b958-48f2-8a00-91a0d37ec353)
-![alt text](image-5.png)
+![Screenshot 2025-07-03 163821](https://github.com/user-attachments/assets/1f533f81-e9a9-451c-b929-a1cf62551499)
+
 
 ### Table before & after incremental
-![alt text](<Screenshot 2025-06-08 190839.png>)
-![alt text](image-12.png)
+![Screenshot 2025-07-03 152001](https://github.com/user-attachments/assets/726addb7-6468-474f-aa6c-b8ab283de4db)
+![Screenshot 2025-07-03 194211](https://github.com/user-attachments/assets/8de93252-f182-468d-bcbe-6d52f2c631b3)
+
 
 ### Scrape Result by Keywords
 - Big Data Engineer
@@ -81,7 +84,6 @@ below is the example of new day, so run scrape and choose table date same time t
 - DataOps Engineer
 
 https://lookerstudio.google.com/reporting/3b4f56b0-1baf-49dc-a967-d5c8abf51880
-
 https://lookerstudio.google.com/reporting/c4302f79-56c6-4a07-b943-4bd44a9d0d71
 
 ## Data Validation
