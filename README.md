@@ -54,16 +54,16 @@ which the user could choose:
 below is the example of new day, so run scrape and choose table date same time the data scraped
 ![alt text](image-13.png)
 
-### Airflow DAG running 
-![alt text](image.png)
+### Airflow DAG Logs 
+![Screenshot 2025-07-03 151756](https://github.com/user-attachments/assets/997fa145-f643-4ef4-a8b7-4cee943d0018)
 ![alt text](image-1.png)
 
 ### Records before incremental Load
-![alt text](<Screenshot 2025-06-08 190040.png>)
+![Screenshot 2025-07-03 144526](https://github.com/user-attachments/assets/136dd928-0b66-4522-b579-2349948758b7)
 ![alt text](image-3.png)
 
 ### Records after incremental Load
-![Screenshot 2025-06-08 191325](https://github.com/user-attachments/assets/7471c47b-f7e7-4b9d-997d-e5e5851880ec)
+![Screenshot 2025-07-03 151122](https://github.com/user-attachments/assets/ae41506d-b958-48f2-8a00-91a0d37ec353)
 ![alt text](image-5.png)
 
 ### Table before & after incremental
