@@ -81,6 +81,7 @@ below is the example of new day, so run scrape and choose table date same time t
 - DataOps Engineer
 
 https://lookerstudio.google.com/reporting/3b4f56b0-1baf-49dc-a967-d5c8abf51880
+
 https://lookerstudio.google.com/reporting/c4302f79-56c6-4a07-b943-4bd44a9d0d71
 
 ## Data Validation
